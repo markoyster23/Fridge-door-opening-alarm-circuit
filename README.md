@@ -48,8 +48,11 @@ The output of U1 is supplied to the second 555 timer (U2), which is configured i
 ## EXPECTED OUTPUT:
 
 ### Schematic diagram
- 
+<img width="1910" height="1113" alt="image" src="https://github.com/user-attachments/assets/10cecce5-3c82-45f3-b24c-abc99306c72a" />
+
 ### Layout diagram
+<img width="1919" height="1118" alt="image" src="https://github.com/user-attachments/assets/43db421c-cbed-479c-9e4e-30ad2dbba9b5" />
+
  
 ## RESULT:
 Thus, the schematic and PCB layout for the fridge door opening alarm circui has been successfully designed using Eagle software.
